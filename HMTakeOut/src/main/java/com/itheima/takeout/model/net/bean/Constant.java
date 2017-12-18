@@ -1,4 +1,4 @@
-package com.itheima.takeout.model;
+package com.itheima.takeout.model.net.bean;
 
 /**
  * @Copyright (C), 2017

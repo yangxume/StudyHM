@@ -1,11 +1,9 @@
 package com.itheima.takeout.presenter;
 
-import android.widget.Toast;
-
 import com.itheima.takeout.LoginActivity;
-import com.itheima.takeout.model.Constant;
-import com.itheima.takeout.model.ResponseInfo;
-import com.itheima.takeout.model.net.ResponseInfoApi;
+import com.itheima.takeout.model.net.bean.Constant;
+import com.itheima.takeout.model.net.bean.ResponseInfo;
+import com.itheima.takeout.model.net.api.ResponseInfoApi;
 
 import retrofit2.Call;
 import retrofit2.Callback;
