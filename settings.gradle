@@ -1,1 +1,1 @@
-include ':app', ':HMTakeOut', ':HMMusicPlayer', ':AudioPlayer'
+include ':app', ':HMTakeOut'

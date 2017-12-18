@@ -1,10 +1,10 @@
 package com.itheima.takeout.ui.activity;
 
-import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
@@ -12,11 +12,15 @@ import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import com.itheima.takeout.R;
+import com.itheima.takeout.ui.fragment.HomeFragment;
+import com.itheima.takeout.ui.fragment.MoreFragment;
+import com.itheima.takeout.ui.fragment.OrderFragment;
+import com.itheima.takeout.ui.fragment.UserFragment;
 
 import java.util.ArrayList;
 
 
-public class MainActivity extends Activity{
+public class MainActivity extends AppCompatActivity{
 
 
     FrameLayout mainFragmentContainer;

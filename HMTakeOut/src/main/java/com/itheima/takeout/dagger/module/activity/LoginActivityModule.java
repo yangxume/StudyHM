@@ -1,4 +1,4 @@
-package com.itheima.takeout.dagger.module.model;
+package com.itheima.takeout.dagger.module.activity;
 
 import com.itheima.takeout.LoginActivity;
 import com.itheima.takeout.presenter.LoginActivityPresenter;

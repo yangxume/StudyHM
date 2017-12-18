@@ -1,7 +1,7 @@
-package com.itheima.takeout.dagger.module.componet;
+package com.itheima.takeout.dagger.componet.activity;
 
 import com.itheima.takeout.LoginActivity;
-import com.itheima.takeout.dagger.module.model.LoginActivityModule;
+import com.itheima.takeout.dagger.module.activity.LoginActivityModule;
 
 import dagger.Component;
 

@@ -9,9 +9,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.itheima.takeout.dagger.module.componet.DaggerLoginActivityComponet;
-import com.itheima.takeout.dagger.module.componet.LoginActivityComponet;
-import com.itheima.takeout.dagger.module.model.LoginActivityModule;
+import com.itheima.takeout.dagger.componet.activity.DaggerLoginActivityComponet;
+import com.itheima.takeout.dagger.componet.activity.LoginActivityComponet;
+import com.itheima.takeout.dagger.module.activity.LoginActivityModule;
 import com.itheima.takeout.presenter.LoginActivityPresenter;
 
 import javax.inject.Inject;
